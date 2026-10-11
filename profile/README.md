@@ -97,13 +97,34 @@ Esses são exemplos conceituais. **O planejamento de rotas multimodais é uma vi
 
 A proposta é comparar alternativas considerando tempo total, espera, caminhadas, baldeações, custo, disponibilidade e condições operacionais. Ao combinar a rede de transporte com atualizações e previsões de chegada, o planejamento poderá responder melhor ao que acontece durante a viagem.
 
-Outras evoluções acompanham essa direção:
+## Rotinas inteligentes: seu caminho de todo dia
+
+Ir à faculdade ou ao trabalho envolve um trajeto conhecido, mas condições que mudam a cada dia. A proposta das **Rotinas** é permitir que você cadastre esses deslocamentos habituais e receba informações úteis antes de sair e durante a viagem, sem precisar refazer as mesmas consultas diariamente.
+
+Cada rotina poderá reunir **origem, destino, dias da semana, horário habitual de saída e horário desejado de chegada**, além de linhas e trajetos multimodais preferidos. Preferências como menor caminhada, menos baldeações, menor custo ou maior confiabilidade poderão orientar a comparação entre caminhos.
+
+Combinando **dados em tempo real, ETA, histórico operacional e roteamento multimodal**, o NoPonto poderá acompanhar automaticamente a rotina nos dias e horários configurados. A ideia é comparar as condições atuais com o comportamento habitual, identificar atrasos e intervalos maiores, recomendar um horário de saída e sugerir outro trajeto quando houver uma alternativa mais adequada às suas preferências.
+
+> **Exemplo conceitual — rotina Faculdade**
+>
+> De segunda a sexta, chegar às 8h, saindo de casa e combinando caminhada, ônibus e metrô.
+>
+> Antes da saída, o aplicativo poderá avaliar as próximas chegadas e o tempo previsto do percurso. Se a linha habitual estiver mais lenta, poderá avisar: “Sua rota está demorando mais hoje. Considere sair mais cedo ou usar esta alternativa com ônibus e metrô.”
+>
+> Durante o deslocamento, novas informações poderão atualizar a previsão de chegada e gerar um aviso se uma mudança na operação afetar a próxima conexão.
+
+As **notificações contextuais** deverão acompanhar a intenção do usuário: avisar que está na hora de sair, que o veículo se aproxima ou que um atraso compromete o trajeto cadastrado. A busca unificada e os locais de interesse poderão facilitar a escolha dos destinos; o histórico e as previsões ajudarão a avaliar as alternativas ao longo do caminho.
+
+**Rotinas inteligentes ainda são uma visão futura, não uma funcionalidade disponível.** Sua realização depende da evolução do roteamento multimodal, da cobertura e qualidade das informações operacionais e da validação das previsões e dos dados históricos.
+
+### Outras evoluções
+
+Outras frentes complementam o planejamento de trajetos e as rotinas:
 
 | Frente | O que queremos tornar possível |
 | --- | --- |
 | Destinos e busca unificada | Encontrar endereços e locais de interesse, como hospitais, universidades e parques, e descobrir como acessá-los pela rede. |
-| Favoritos e rotinas | Ampliar os favoritos de linhas para organizar trajetos e locais frequentes. |
-| Notificações inteligentes | Avisar sobre aproximação de veículos, atrasos e mudanças relevantes ao deslocamento. |
+| Favoritos | Ampliar os favoritos de linhas para incluir paradas, estações, trajetos e locais frequentes. |
 | Histórico e confiabilidade | Mostrar tempos típicos, frequência e irregularidade das linhas a partir de dados acumulados. |
 | Experiência e acessibilidade | Melhorar continuamente a leitura do mapa, a clareza das informações e a interação com os controles. |
 
