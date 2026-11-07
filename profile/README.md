@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="../imgs/logo.png" alt="Logo do NoPonto: seta branca envolvida por um círculo amarelo sobre fundo preto" width="140">
 </p>
@@ -7,6 +8,26 @@
 <p align="center"><strong>O transporte do Rio, mais perto de você.</strong></p>
 
 <p align="center">Linhas, percursos e previsões de chegada em uma experiência mobile.<br>Um projeto em desenvolvimento para tornar o deslocamento urbano mais previsível e acessível.</p>
+
+---
+
+## Experimente o NoPonto no Android
+
+O NoPonto já está disponível para **testes em dispositivos Android**. Acesse a build mais recente pelo Expo ou aponte a câmera do celular para o QR Code abaixo para abrir a página de instalação.
+
+<p align="center">
+  <a href="https://expo.dev/accounts/guilhermedesales/projects/NoPonto/builds/5b4daf63-b81a-4ef0-bdfe-96a915bc734e">
+    <img src="../imgs/qr-noponto.png" alt="QR Code para acessar a versão de testes Android do NoPonto" width="210">
+  </a>
+</p>
+
+<p align="center">
+  <strong>APK mais recente — Android</strong><br>
+  <sub>Build publicada em 06/11/2026 · Distribuição interna para testes</sub><br><br>
+  <a href="https://expo.dev/accounts/guilhermedesales/projects/NoPonto/builds/5b4daf63-b81a-4ef0-bdfe-96a915bc734e"><strong>Acessar download e instalação do APK</strong></a>
+</p>
+
+> **Em desenvolvimento:** esta é uma versão de testes, que pode apresentar instabilidades ou funcionalidades ainda em integração. A disponibilidade de dados varia conforme a linha e o modal.
 
 ---
 
