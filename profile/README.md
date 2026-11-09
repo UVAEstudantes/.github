@@ -13,18 +13,12 @@
 
 ## Experimente o NoPonto no Android
 
-O NoPonto já está disponível para **testes em dispositivos Android**. Acesse a build mais recente pelo Expo ou aponte a câmera do celular para o QR Code abaixo para abrir a página de instalação.
+O NoPonto já está disponível em **versão beta para testes em dispositivos Android**. Acesse a release no GitHub para baixar e instalar o APK, sem precisar do Expo Go.
 
 <p align="center">
-  <a href="https://expo.dev/accounts/guilhermedesales/projects/NoPonto/builds/5b4daf63-b81a-4ef0-bdfe-96a915bc734e">
-    <img src="../imgs/qr-noponto.png" alt="QR Code para acessar a versão de testes Android do NoPonto" width="210">
-  </a>
-</p>
-
-<p align="center">
-  <strong>APK mais recente — Android</strong><br>
-  <sub>Build publicada em 06/11/2026 · Distribuição interna para testes</sub><br><br>
-  <a href="https://expo.dev/accounts/guilhermedesales/projects/NoPonto/builds/5b4daf63-b81a-4ef0-bdfe-96a915bc734e"><strong>Acessar download e instalação do APK</strong></a>
+  <strong>NoPonto Radar V5.1 — Beta</strong><br>
+  <sub>APK de testes · Publicado em 09/11/2026 · Android</sub><br><br>
+  <a href="https://github.com/UVAEstudantes/.github/releases/tag/radar-v5.1-beta"><strong>📥 Acessar release e baixar o APK</strong></a>
 </p>
 
 > **Em desenvolvimento:** esta é uma versão de testes, que pode apresentar instabilidades ou funcionalidades ainda em integração. A disponibilidade de dados varia conforme a linha e o modal.
