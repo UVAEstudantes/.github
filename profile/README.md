@@ -17,19 +17,19 @@ O NoPonto já está disponível em **versão beta para testes em dispositivos An
 
 <p align="center">
   <strong>NoPonto Radar V5.2 — Beta</strong><br>
-  <sub>APK de testes · Publicado em 10/11/2026 · Android</sub>
+  <sub>APK de testes · Publicado em 11/11/2026 · Android</sub>
 </p>
 
 <p align="center">
-  <a href="https://github.com/UVAEstudantes/.github/releases/download/radar-v5.2-beta/app-release.apk">
-    <img src="../imgs/QR%20Code.png" alt="QR Code para baixar o APK do NoPonto Radar V5.2 Beta" width="180">
+  <a href="https://github.com/UVAEstudantes/.github/releases">
+    <img src="../imgs/QR%20Code.png" alt="QR Code para baixar o APK do NoPonto Radar V5.3 Beta" width="180">
   </a>
   <br>
   <sub>Escaneie ou clique no QR Code para baixar o aplicativo.</sub>
 </p>
 
 <p align="center">
-  <a href="https://github.com/UVAEstudantes/.github/releases/download/radar-v5.2-beta/app-release.apk"><strong>📥 Baixar APK — NoPonto Radar V5.2 Beta</strong></a>
+  <a href="https://github.com/UVAEstudantes/.github/releases"><strong>📥 Baixar APK — NoPonto Radar V5.3 Beta</strong></a>
 </p>
 
 > **Em desenvolvimento:** esta é uma versão de testes, que pode apresentar instabilidades ou funcionalidades ainda em integração. A disponibilidade de dados varia conforme a linha e o modal.
