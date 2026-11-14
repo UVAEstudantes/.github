@@ -17,7 +17,7 @@ O NoPonto já está disponível em **versão beta para testes em dispositivos An
 
 <p align="center">
   <strong>NoPonto - Beta</strong><br>
-  <sub>APK de testes · Publicado em 13/11/2026 · Android</sub>
+  <sub>APK de testes · Publicado em 14/11/2026 · Android</sub>
 </p>
 
 <p align="center">
