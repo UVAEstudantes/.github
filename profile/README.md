@@ -1,169 +1,175 @@
-
 <p align="center">
-  <img src="../imgs/logo.png" alt="Logo do NoPonto: seta branca envolvida por um círculo amarelo sobre fundo preto" width="140">
+  <img src="../imgs/logo.png" alt="Logo do NoPonto" width="132">
 </p>
 
 <h1 align="center">NoPonto</h1>
 
 <p align="center"><strong>O transporte do Rio, mais perto de você.</strong></p>
 
-<p align="center">Linhas, percursos e previsões de chegada em uma experiência mobile.<br>Um projeto em desenvolvimento para tornar o deslocamento urbano mais previsível e acessível.</p>
+<p align="center">
+  Acompanhe linhas, veículos, paradas e previsões de chegada em um só lugar.<br>
+  Uma experiência de mobilidade urbana em evolução, feita para quem depende do transporte público.
+</p>
+
+<p align="center">
+  <a href="#experimente-o-noponto">Baixar para Android</a> ·
+  <a href="#conheça-o-aplicativo">Conhecer o aplicativo</a> ·
+  <a href="#o-que-já-existe-e-o-que-vem-depois">Estado das funcionalidades</a>
+</p>
 
 ---
 
-## Experimente o NoPonto no Android
+## Experimente o NoPonto
 
-O NoPonto já está disponível em **versão beta para testes em dispositivos Android**. Baixe e instale o APK diretamente pelo GitHub, sem precisar do Expo Go.
+O **NoPonto está disponível em versão beta para Android**. O APK pode ser instalado diretamente no celular, sem precisar do Expo Go.
 
 <p align="center">
-  <strong>NoPonto - Beta</strong><br>
-  <sub>APK de testes · Publicado em 14/11/2026 · Android</sub>
+  <strong>Versão mais recente: NoPonto v5.3 Beta — Nova Interface</strong><br>
+  <sub>Publicada em 14/11/2026 (horário de Brasília) · APK Android de testes</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/UVAEstudantes/.github/releases/download/v5.3-beta/NoPonto.apk"><strong>📥 Baixar o APK — v5.3 Beta</strong></a>
+  <br>
+  <a href="https://github.com/UVAEstudantes/.github/releases"><sub>Ver todas as versões publicadas</sub></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/UVAEstudantes/.github/releases">
-    <img src="../imgs/QR%20Code.png" alt="QR Code para baixar o APK do NoPonto Beta" width="180">
+    <img src="../imgs/QR%20Code.png" alt="QR Code das versões beta do NoPonto" width="160">
   </a>
   <br>
-  <sub>Escaneie ou clique no QR Code para baixar o aplicativo.</sub>
+  <sub>Clique no QR Code para abrir a página de releases. Para obter a versão mais recente, use o link v5.3 acima.</sub>
 </p>
 
-<p align="center">
-  <a href="https://github.com/UVAEstudantes/.github/releases"><strong>📥 Baixar APK — NoPonto Beta</strong></a>
-</p>
-
-> **Em desenvolvimento:** esta é uma versão de testes, que pode apresentar instabilidades ou funcionalidades ainda em integração. A disponibilidade de dados varia conforme a linha e o modal.
+> **Versão de testes:** o aplicativo está em desenvolvimento. Alguns dados dependem de serviços externos, da cobertura de cada modal e de permissões do Android. Posições e horários exibidos são informações operacionais ou estimativas, não garantias de chegada.
 
 ---
 
-## Onde está meu transporte? Quando ele chega?
+## Conheça o aplicativo
 
-Quem depende do transporte público precisa conectar informações que muitas vezes estão espalhadas: o percurso de uma linha, a parada certa, a posição do veículo e o tempo de espera. O **NoPonto** reúne essas consultas em uma interface centrada no mapa, com foco inicial no Rio de Janeiro.
+### O transporte ganha vida no mapa
 
-A visão é integrar **Ônibus, BRT, Trem e Metrô**. Essa integração avança por etapas: os modais têm diferentes fontes de dados, coberturas e níveis de acompanhamento. O aplicativo ainda está em desenvolvimento; as telas abaixo apresentam a experiência atual, incluindo interfaces que continuam sendo integradas e validadas.
+O mapa é o ponto de partida do NoPonto. Nele, você pode visualizar **percursos, paradas e veículos**, filtrar o transporte por modal e acompanhar as linhas de interesse.
 
-## Explore o mapa e escolha suas linhas
-
-O mapa aproxima a rede de transporte do lugar onde você está. Percursos, paradas e veículos disponíveis ajudam a entender quais linhas passam pela região e como elas se conectam ao seu deslocamento.
-
-Selecione as linhas que deseja acompanhar e ajuste a visualização: mostrar ou ocultar percursos e paradas, escolher o sentido e mudar a cor de cada linha. A busca de linhas e os filtros por modal fazem parte dessa exploração; a pesquisa ampliada por locais e endereços é uma evolução planejada.
+Ao tocar em um veículo, o app apresenta detalhes como **linha, sentido, estado da atualização GPS, velocidade, distância e próxima parada**, conforme os dados disponíveis. Ao escolher uma parada, mostra as próximas chegadas estimadas, permitindo acompanhar o transporte a partir do lugar onde você pretende embarcar.
 
 <p align="center">
-  <img src="../imgs/Screenshot_2026-10-10-23-35-59-149_host.exp.exponent.jpg" alt="Mapa do NoPonto em Campo Grande com percursos, paradas e marcadores de veículos" width="30%">
-  <img src="../imgs/Screenshot_2026-10-10-23-36-21-262_host.exp.exponent.jpg" alt="Painel Linhas no Mapa com seleção de modal e linhas 838 e 855" width="30%">
-  <img src="../imgs/Screenshot_2026-10-10-23-39-08-926_host.exp.exponent.jpg" alt="Controles da linha 884 para visibilidade, paradas, sentido e cor do percurso" width="30%">
+  <img src="../imgs/004.jpeg" alt="Mapa atualizado do NoPonto, com vários veículos e itinerários de ônibus" width="30%">
+  <img src="../imgs/001.jpeg" alt="Detalhes de um ônibus da linha 838, com status GPS, velocidade e próxima parada" width="30%">
+  <img src="../imgs/002.jpeg" alt="Painel Chegando em Fragoso, com linhas 855 e 838 e previsões de chegada" width="30%">
 </p>
 
-<p align="center"><sub>Da esquerda para a direita: explorar a região, selecionar linhas e personalizar o percurso.</sub></p>
+<p align="center"><sub>Mapa ao vivo · Detalhes do veículo · Próximas chegadas na parada</sub></p>
 
-## Do veículo à próxima chegada
+O usuário também pode selecionar linhas, alterar a visualização de percursos e paradas, consultar sentidos e guardar suas linhas favoritas. A atualização dos veículos depende dos sinais recebidos das fontes de transporte.
 
-Ao selecionar um veículo, a interface apresenta a linha, a atualização recebida e informações como velocidade e próxima parada, quando disponíveis. Ao abrir uma parada, você pode consultar as linhas atendidas e os próximos veículos com suas estimativas de chegada.
+### Informações da parada, sem complicação
 
-O painel de acompanhamento no mapa também reúne próximas chegadas para a parada escolhida. Assim, a consulta pode partir tanto de um veículo quanto do ponto onde você pretende embarcar.
+O NoPonto reúne os dados essenciais da parada em um único painel: **linhas que passam por ela, próximos veículos, horários estimados e distância**, quando disponíveis. É possível atualizar a consulta e abrir a lista das linhas atendidas.
+
+Para facilitar os primeiros passos, o aplicativo também inclui um **tutorial interativo**, que apresenta os controles e recursos do mapa.
 
 <p align="center">
-  <img src="../imgs/Screenshot_2026-10-10-23-37-12-804_host.exp.exponent.jpg" alt="Detalhes do veículo D86260 da linha 855, com atualização, velocidade e próxima parada" width="30%">
-  <img src="../imgs/Screenshot_2026-10-10-23-36-59-702_host.exp.exponent.jpg" alt="Parada Amaral Costa com linhas atendidas, próximos ônibus e estimativa de chegada expandida" width="30%">
-  <img src="../imgs/Screenshot_2026-10-10-23-38-56-379_host.exp.exponent.jpg" alt="Painel Chegando em Fragoso sobre o mapa, com próximas chegadas das linhas 838 e 855" width="30%">
+  <img src="../imgs/008.jpeg" alt="Detalhes da parada Coronel Agostinho, com linhas atendidas e próximos ônibus" width="30%">
+  <img src="../imgs/010.jpeg" alt="Lista de linhas atendidas pela parada Coronel Agostinho" width="30%">
+  <img src="../imgs/007.jpeg" alt="Tutorial interativo do NoPonto explicando o traçado de uma linha" width="30%">
 </p>
 
-<p align="center"><sub>Detalhes do veículo, consulta da parada e acompanhamento das próximas chegadas.</sub></p>
+<p align="center"><sub>Consulta da parada · Linhas nesta parada · Tutorial interativo</sub></p>
 
-**Previsões são estimativas.** Sua disponibilidade depende da linha, do modal, da qualidade dos dados e da atualização da fonte. A indicação de atualização ajuda a interpretar a informação; ela não garante que a posição permaneça atual nem que o veículo chegue no minuto previsto.
+### Radar de Espera: acompanhe sem olhar o mapa o tempo todo
 
-## Uma experiência que se adapta ao uso
+O **Radar de Espera** permite selecionar as linhas de uma parada e configurar um acompanhamento de chegadas. É possível destacar linhas prioritárias e ajustar a antecedência desejada para os avisos.
 
-A tela **Linhas e Horários** organiza a consulta de linhas, sentidos e percursos. As preferências visuais permitem escolher o tema, o estilo do mapa e o lado dos controles para uso com a mão esquerda ou direita.
+No Android, o Radar conta com **notificações de acompanhamento e recursos de avisos por voz**, incluindo opções para controlar ou silenciar a narração sem necessariamente interromper o Radar. A operação remota utiliza serviços do aplicativo e depende de conectividade, permissões, configuração do dispositivo e disponibilidade das previsões.
 
 <p align="center">
-  <img src="../imgs/Screenshot_2026-10-10-23-38-18-533_host.exp.exponent.jpg" alt="Tela Linhas e Horários com consulta da linha 864 e cartões de informações em integração" width="36%">
-  <img src="../imgs/Screenshot_2026-10-10-23-38-27-061_host.exp.exponent.jpg" alt="Configurações de tema claro ou escuro, lateralidade e estilos do mapa" width="36%">
+  <img src="../imgs/003.jpeg" alt="Tela Radar de Espera com seleção de linhas e configuração de antecedência dos avisos" width="34%">
 </p>
 
-<p align="center"><sub>Consulta de linhas e preferências de apresentação.</sub></p>
+<p align="center"><sub>Escolha as linhas acompanhadas e quando deseja ser avisado.</sub></p>
 
-Na captura de **Linhas e Horários**, os cartões de chegada, próxima viagem e intervalo ainda incluem valores demonstrativos da interface, pendentes de integração. Eles não representam horários operacionais confirmados. A aba Metrô expressa a direção multimodal do produto, sem indicar acompanhamento operacional já disponível.
+As notificações podem resumir a chegada de mais de uma linha e oferecer ações rápidas, como **parar o Radar** ou **silenciar a voz**.
 
-Os favoritos de linhas já possuem implementação, com integração ao mapa em validação. A experiência de rotinas completas continua como evolução futura.
+<p align="center">
+  <img src="../imgs/011.jpeg" alt="Notificação compacta do Radar, mostrando as linhas 838 e 855" width="48%">
+  <img src="../imgs/012.jpeg" alt="Notificação expandida do Radar com próximas chegadas e botões Parar radar e Silenciar voz" width="48%">
+</p>
 
-## Como os dados se tornam acompanhamento
+<p align="center"><sub>Notificação compacta e expandida no Android.</sub></p>
 
-**Fontes de transporte → processamento → contexto de linha e veículo → aplicativo**
+### Favoritos, perfil e uma visão das suas viagens
 
-Para **Ônibus e BRT**, o backend recebe posições de fontes externas e procura associá-las às linhas, aos sentidos e aos itinerários correspondentes. Esse contexto permite exibir veículos no mapa e relacionar seu movimento às próximas paradas. O acompanhamento depende das posições recebidas e da capacidade de reconhecer corretamente o percurso.
+O NoPonto também ganhou uma área de **Perfil**, com nome e cor do avatar armazenados localmente no aparelho e acesso às linhas favoritas. Não é necessário criar uma conta para personalizar esses dados.
 
-Nos **trens**, a abordagem é diferente: uma posição GPS direta nem sempre está disponível. O projeto combina horários programados, estrutura ferroviária e informações operacionais para identificar viagens e estimar posições. Um serviço previsto na grade e uma estimativa apoiada por informação operacional recente têm evidências diferentes; **posição calculada não é medição GPS**.
+A interface já apresenta uma proposta de estatísticas de mobilidade — como distância percorrida, linhas utilizadas e atividade semanal —, mas **esses indicadores ainda são demonstrativos**, sem histórico real de viagens ou autenticação de usuário.
 
-O acompanhamento ferroviário está sendo ampliado progressivamente, com operação documentada no ramal Santa Cruz e expansão para outros ramais ainda sujeita a integração e validação. O **Metrô** permanece na visão de integração, sem cobertura operacional confirmada no contexto consultado.
+<p align="center">
+  <img src="../imgs/005.jpeg" alt="Perfil do NoPonto com edição local e lista real de linhas favoritas" width="43%">
+  <img src="../imgs/006.jpeg" alt="Protótipo de estatísticas do perfil, explicitamente ilustrativas e sem rastreamento real" width="43%">
+</p>
 
-## Previsões que aprendem com a operação
+<p align="center"><sub>Perfil e favoritos locais · Prévia das futuras estatísticas pessoais</sub></p>
 
-**ETA**, do inglês *Estimated Time of Arrival*, é a previsão de tempo de chegada: quanto um veículo deve levar para alcançar uma parada ou estação. O NoPonto já trabalha com estimativas e desenvolve uma frente de aprendizado de máquina para torná-las mais contextualizadas.
+### Rotinas: a próxima etapa da jornada
 
-Essa evolução reúne três camadas:
+A área de **Rotinas** já possui uma interface para explorar a ideia de cadastrar deslocamentos habituais, como o caminho de casa até a faculdade ou o trabalho. Ela mostra exemplos de trajetos que combinam caminhada e transporte público.
 
-1. **Movimento e percurso.** Distância ao longo do itinerário, velocidade e contexto da posição ajudam a estimar o tempo restante.
-2. **Histórico operacional.** Observações dos veículos e registros de passagens formam uma base para estudar o comportamento real de linhas e trechos.
-3. **Aprendizado de máquina.** Preparação de dados, treinamento e comparação de modelos buscam reconhecer padrões associados à linha, ao trecho, ao horário, ao dia da semana e ao histórico de deslocamento.
+**Por enquanto, essa experiência é uma prévia interativa:** os percursos são ilustrativos e ainda não existe um motor de rotas multimodais, acompanhamento completo de viagens ou alertas reais de rotina. A proposta é evoluir para orientações ao longo do trajeto, aproveitando as informações operacionais e os avisos do Radar.
 
-A frente de ML possui ferramentas de treinamento e avaliação, mas a integração do modelo histórico às previsões públicas ainda exige validação. Não há comprovação de ganho de precisão em operação real; resultados com dados sintéticos não são métricas de produção.
+<p align="center">
+  <img src="../imgs/009.jpeg" alt="Tela Rotinas do NoPonto, com criação de rotinas e exemplo ilustrativo de deslocamento" width="34%">
+</p>
 
-Os próximos estudos incluem tempos históricos entre paradas, variação de velocidade por trecho, horários de maior movimento, intervalos, atrasos recorrentes e comportamento de veículos à frente. Novos fatores serão incorporados conforme sua utilidade puder ser demonstrada.
+<p align="center"><sub>Interface de Rotinas em desenvolvimento, com exemplos de deslocamentos.</sub></p>
 
-## Além de acompanhar: planejar o caminho inteiro
+---
 
-A maior ambição do NoPonto é ajudar a escolher **como chegar ao destino**, combinando caminhada e diferentes modais em um mesmo deslocamento.
+## Um aplicativo para diferentes modais
 
-> Origem → Caminhada → Ônibus → Metrô → Caminhada → Destino
->
-> Origem → BRT → Trem → Destino
+O projeto busca reunir a mobilidade do Rio de Janeiro em uma experiência única:
 
-Esses são exemplos conceituais. **O planejamento de rotas multimodais é uma visão futura**, ainda não uma funcionalidade concluída.
+- **Ônibus:** itinerários, paradas, acompanhamento de veículos e estimativas quando houver dados elegíveis.
+- **BRT:** linhas e acompanhamento conforme a integração e a disponibilidade das fontes.
+- **Trem:** ramais, estações e acompanhamento baseado em horários e dados operacionais. As posições ferroviárias podem ser **inferidas**, e não medições GPS diretas.
+- **Metrô:** faz parte da proposta multimodal e da evolução das integrações; a cobertura operacional não deve ser presumida como concluída.
 
-A proposta é comparar alternativas considerando tempo total, espera, caminhadas, baldeações, custo, disponibilidade e condições operacionais. Ao combinar a rede de transporte com atualizações e previsões de chegada, o planejamento poderá responder melhor ao que acontece durante a viagem.
+Cada modal possui fontes, características e níveis de cobertura diferentes. Quando uma posição é estimada ou a fonte está desatualizada, essa limitação importa para interpretar o resultado.
 
-## Rotinas inteligentes: seu caminho de todo dia
+## O que já existe e o que vem depois
 
-Ir à faculdade ou ao trabalho envolve um trajeto conhecido, mas condições que mudam a cada dia. A proposta das **Rotinas** é permitir que você cadastre esses deslocamentos habituais e receba informações úteis antes de sair e durante a viagem, sem precisar refazer as mesmas consultas diariamente.
-
-Cada rotina poderá reunir **origem, destino, dias da semana, horário habitual de saída e horário desejado de chegada**, além de linhas e trajetos multimodais preferidos. Preferências como menor caminhada, menos baldeações, menor custo ou maior confiabilidade poderão orientar a comparação entre caminhos.
-
-Combinando **dados em tempo real, ETA, histórico operacional e roteamento multimodal**, o NoPonto poderá acompanhar automaticamente a rotina nos dias e horários configurados. A ideia é comparar as condições atuais com o comportamento habitual, identificar atrasos e intervalos maiores, recomendar um horário de saída e sugerir outro trajeto quando houver uma alternativa mais adequada às suas preferências.
-
-> **Exemplo conceitual — rotina Faculdade**
->
-> De segunda a sexta, chegar às 8h, saindo de casa e combinando caminhada, ônibus e metrô.
->
-> Antes da saída, o aplicativo poderá avaliar as próximas chegadas e o tempo previsto do percurso. Se a linha habitual estiver mais lenta, poderá avisar: “Sua rota está demorando mais hoje. Considere sair mais cedo ou usar esta alternativa com ônibus e metrô.”
->
-> Durante o deslocamento, novas informações poderão atualizar a previsão de chegada e gerar um aviso se uma mudança na operação afetar a próxima conexão.
-
-As **notificações contextuais** deverão acompanhar a intenção do usuário: avisar que está na hora de sair, que o veículo se aproxima ou que um atraso compromete o trajeto cadastrado. A busca unificada e os locais de interesse poderão facilitar a escolha dos destinos; o histórico e as previsões ajudarão a avaliar as alternativas ao longo do caminho.
-
-**Rotinas inteligentes ainda são uma visão futura, não uma funcionalidade disponível.** Sua realização depende da evolução do roteamento multimodal, da cobertura e qualidade das informações operacionais e da validação das previsões e dos dados históricos.
-
-### Outras evoluções
-
-Outras frentes complementam o planejamento de trajetos e as rotinas:
-
-| Frente | O que queremos tornar possível |
+| Área | Estado do projeto |
 | --- | --- |
-| Destinos e busca unificada | Encontrar endereços e locais de interesse, como hospitais, universidades e parques, e descobrir como acessá-los pela rede. |
-| Favoritos | Ampliar os favoritos de linhas para incluir paradas, estações, trajetos e locais frequentes. |
-| Histórico e confiabilidade | Mostrar tempos típicos, frequência e irregularidade das linhas a partir de dados acumulados. |
-| Experiência e acessibilidade | Melhorar continuamente a leitura do mapa, a clareza das informações e a interação com os controles. |
+| Mapa, linhas, sentidos e itinerários | **Implementado**, com melhorias e ajustes contínuos |
+| Veículos e estimativas de chegada | **Disponíveis conforme a fonte e a qualidade dos dados** |
+| Paradas e consulta de próximas chegadas | **Implementado**, com atualização e detalhes de linhas |
+| Radar de Espera, notificações e voz | **Implementado para testes no Android**, sujeito a permissões e serviços |
+| Favoritos, preferências, tutorial e perfil local | **Implementado** |
+| Estatísticas pessoais de mobilidade | **Interface demonstrativa**, sem coleta real de trajetos pessoais |
+| Rotinas e percursos personalizados | **Prévia interativa**; automação e roteamento ainda não concluídos |
+| Planejamento de rotas multimodais | **Planejado**, incluindo caminhada, embarques e baldeações |
 
-Essas frentes estão em planejamento ou evolução, sem compromissos de lançamento definidos. Pontos de interesse ainda não são um catálogo disponível no aplicativo.
+A prioridade é transformar informações operacionais em algo realmente útil durante a espera e, no futuro, **durante todo o deslocamento**. Entre as evoluções estudadas estão roteamento por transporte público, rotinas acompanhadas, mais recursos de acessibilidade e informações colaborativas sobre a experiência nas linhas e paradas.
 
-## Tecnologia a serviço da mobilidade
+## Tecnologia
 
-O aplicativo utiliza **React Native, Expo e TypeScript**. O backend combina **ASP.NET Core / .NET 9**, **PostgreSQL com PostGIS**, **Redis** e **SignalR**, com processamento geoespacial e integrações com fontes externas de transporte. A frente de aprendizado de máquina utiliza **Python e scikit-learn** para preparar dados e estudar modelos de previsão.
+O aplicativo é desenvolvido com **React Native, Expo e TypeScript**, incluindo recursos nativos Android para o Radar. O backend utiliza **ASP.NET Core / .NET 9, PostgreSQL/PostGIS, Redis e SignalR**, com integração de fontes externas e processamento de dados de transporte.
 
-Essa base sustenta os desafios do produto: interpretar informações de diferentes fontes, conectar veículos aos percursos e transformar dados operacionais em consultas compreensíveis.
+A arquitetura procura relacionar veículos, linhas, itinerários e paradas, mantendo separadas as informações recebidas diretamente das fontes e as posições ou chegadas estimadas.
 
-## Nasceu como TCC. Tem caminho para continuar.
+<p align="center">
+  <a href="https://github.com/UVAEstudantes/noponto-frontend">📱 Aplicativo mobile</a> ·
+  <a href="https://github.com/UVAEstudantes/noponto-backend">⚙️ Backend</a> ·
+  <a href="https://github.com/UVAEstudantes/.github/releases">📦 Releases</a>
+</p>
 
-O NoPonto nasceu como **Trabalho de Conclusão de Curso de Ciência da Computação da Universidade Veiga de Almeida**. A motivação é aplicar desenvolvimento de software, integração de dados, geoprocessamento e inteligência computacional a um problema vivido diariamente por quem utiliza transporte público.
+---
 
-O TCC é a origem da plataforma, com pesquisa e desafios reais de engenharia. A perspectiva é continuar aprimorando o acompanhamento, as previsões e a experiência de mobilidade além dessa etapa acadêmica.
+## Da universidade para as ruas
+
+O NoPonto nasceu como **Trabalho de Conclusão de Curso de Ciência da Computação da Universidade Veiga de Almeida (UVA)**, com o propósito de aplicar desenvolvimento de software, integração de dados e geoprocessamento a um problema cotidiano: tornar o uso do transporte público mais compreensível, previsível e acessível.
+
+É um projeto acadêmico em evolução, com a ambição de continuar crescendo além do TCC.
+
+<p align="center"><strong>NoPonto — o transporte do Rio, mais perto de você.</strong></p>
