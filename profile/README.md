@@ -29,14 +29,14 @@ O **NoPonto está disponível em versão beta para Android**. O APK pode ser ins
 </p>
 
 <p align="center">
-  <a href="https://github.com/UVAEstudantes/.github/releases/download/v5.3-beta/NoPonto.apk"><strong>📥 Baixar o APK — v5.3 Beta</strong></a>
+  <a href="https://github.com/UVAEstudantes/.github/releases/download/v5.3-beta/NoPonto.apk"><strong>Baixar o APK — v5.3 Beta</strong></a>
   <br>
   <a href="https://github.com/UVAEstudantes/.github/releases"><sub>Ver todas as versões publicadas</sub></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/UVAEstudantes/.github/releases">
-    <img src="../imgs/QR%20Code.png" alt="QR Code das versões beta do NoPonto" width="160">
+    <img src="../imgs/qr-code.png" alt="Novo QR Code do NoPonto com a marca central" width="160">
   </a>
   <br>
   <sub>Clique no QR Code para abrir a página de releases. Para obter a versão mais recente, use o link v5.3 acima.</sub>
@@ -159,9 +159,17 @@ O aplicativo é desenvolvido com **React Native, Expo e TypeScript**, incluindo 
 A arquitetura procura relacionar veículos, linhas, itinerários e paradas, mantendo separadas as informações recebidas diretamente das fontes e as posições ou chegadas estimadas.
 
 <p align="center">
-  <a href="https://github.com/UVAEstudantes/noponto-frontend">📱 Aplicativo mobile</a> ·
-  <a href="https://github.com/UVAEstudantes/noponto-backend">⚙️ Backend</a> ·
-  <a href="https://github.com/UVAEstudantes/.github/releases">📦 Releases</a>
+  <a href="https://github.com/UVAEstudantes/noponto-frontend" title="Ver aplicativo mobile">
+    <img src="../imgs/link-aplicativo.svg" alt="Aplicativo mobile" width="184">
+  </a>
+  &nbsp;
+  <a href="https://github.com/UVAEstudantes/noponto-backend" title="Ver código do backend">
+    <img src="../imgs/link-backend.svg" alt="Backend" width="184">
+  </a>
+  &nbsp;
+  <a href="https://github.com/UVAEstudantes/.github/releases" title="Ver versões do NoPonto">
+    <img src="../imgs/link-releases.svg" alt="Releases" width="184">
+  </a>
 </p>
 
 ---
