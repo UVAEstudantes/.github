@@ -29,7 +29,7 @@ O **NoPonto está disponível em versão beta para Android**. O APK pode ser ins
 </p>
 
 <p align="center">
-  <a href="https://github.com/UVAEstudantes/.github/releases/download/v5.3-beta/NoPonto.apk"><strong>Baixar o APK — v1.5.0 Beta</strong></a>
+  <a href="https://github.com/UVAEstudantes/.github/releases/download/v1.5.0-beta/NoPonto-v1.5.0-beta.apk"><strong>Baixar o APK — v1.5.0 Beta</strong></a>
   <br>
   <a href="https://github.com/UVAEstudantes/.github/releases"><sub>Ver todas as versões publicadas</sub></a>
 </p>
