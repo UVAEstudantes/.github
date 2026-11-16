@@ -24,12 +24,12 @@
 O **NoPonto está disponível em versão beta para Android**. O APK pode ser instalado diretamente no celular, sem precisar do Expo Go.
 
 <p align="center">
-  <strong>Versão mais recente: NoPonto v5.3 Beta — Nova Interface</strong><br>
+  <strong>Versão mais recente: NoPonto v1.5.0 Beta — Nova Interface</strong><br>
   <sub>Publicada em 14/11/2026 (horário de Brasília) · APK Android de testes</sub>
 </p>
 
 <p align="center">
-  <a href="https://github.com/UVAEstudantes/.github/releases/download/v5.3-beta/NoPonto.apk"><strong>Baixar o APK — v5.3 Beta</strong></a>
+  <a href="https://github.com/UVAEstudantes/.github/releases/download/v5.3-beta/NoPonto.apk"><strong>Baixar o APK — v1.5.0 Beta</strong></a>
   <br>
   <a href="https://github.com/UVAEstudantes/.github/releases"><sub>Ver todas as versões publicadas</sub></a>
 </p>
